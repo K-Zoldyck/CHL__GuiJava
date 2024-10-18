@@ -27,7 +27,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
   - Visualização de tarefas pendentes.
 - **Tecnologias:** Java + Swing.
 
-### 4. PRJ__SchoolSystem (Ainda não disponível)
+### 4. PRJ__SchoolSystem
 - **Descrição:** Um sistema CRUD para gerenciamento escolar, desenvolvido como trabalho de faculdade valendo 5 pontos.
 - **Funcionalidades:**
   - Cadastro de alunos, professores, disciplinas, etc.
