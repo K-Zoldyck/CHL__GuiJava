@@ -19,6 +19,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
   - Gerenciamento de turmas e notas.
   - Persistência de dados com **MySQL**.
 - **Tecnologias:** Java + Swing + MySQL.
+- [Ver Projeto](PRJ__SchoolSystem/)
 ---
 ### 3. PRJ__NotasAdm
 - **Descrição:** Um sistema de gerenciamento de notas de atividades e provas. Desenvolvido quando já tinha uma base melhor de **POO**, mas ainda estava aprendendo **Swing**.
