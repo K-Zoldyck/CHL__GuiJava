@@ -28,6 +28,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
   - Previsão de aprovação ou reprovação.
   - Cálculo de pontos necessários para aprovação.
 - **Tecnologias:** Java + Swing.
+- [Ver Projeto](PRJ__NotasAdm/)
 ---
 ### 4. PRJ__TasksAdm
 - **Descrição:** Um gerenciador simples de tarefas. Com este projeto, meu conhecimento em **Swing** já estava um pouco melhor.
