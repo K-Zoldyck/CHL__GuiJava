@@ -1,5 +1,5 @@
 # ExpenGui
-<img id='right' src='expen.gif' alt='Gif do Projeto' width='70%'>
+<img id='right' src='expen.gif' alt='Gif do Projeto' width='95%'>
 
 <div id='dados'>
   <div id="left">
