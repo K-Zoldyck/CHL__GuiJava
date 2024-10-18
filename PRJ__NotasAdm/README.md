@@ -40,8 +40,8 @@
 
   ##### Links para download
 
-  - [Download](notas.jar)
-  - [Download NetBeans Project](notas.zip)
+  - [Download](notas_dist.jar)
+  - [Download NetBeans Project](PRJ__NotasAdm.zip)
 
   </div>
 
