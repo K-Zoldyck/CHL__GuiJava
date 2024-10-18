@@ -33,8 +33,8 @@
 
   #### Links para download
 
-  - [Download .jar](crud.jar)
-  - [Download NetBeans Project (.zip)](crud.zip)
+  - [Download .jar](crud_dist.zip)
+  - [Download NetBeans Project (.zip)](crud)
 
   </div>
 
