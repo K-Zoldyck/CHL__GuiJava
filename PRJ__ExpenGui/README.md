@@ -26,8 +26,8 @@
 
   #### Links para download
 
-  - [Download .jar](build/project.jar)
-  - [Download NetBeans Project (.zip)](project/project.zip)
+  - [Download .jar](ExpenGui.jar)
+  - [Download NetBeans Project (.zip)](PRJ_ExpenGui.zip)
 
   </div>
 
