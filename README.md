@@ -10,6 +10,7 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
   - Adição de despesas.
   - Visualização de despesas por categoria.
 - **Tecnologias:** Java + Swing.
+- [Ver Projeto](PRJ__ExpenGui/)
 
 ### 2. PRJ__NotasAdm
 - **Descrição:** Um sistema de gerenciamento de notas de atividades e provas. Desenvolvido quando já tinha uma base melhor de **POO**, mas ainda estava aprendendo **Swing**.
