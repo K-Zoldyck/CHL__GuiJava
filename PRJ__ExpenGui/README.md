@@ -1,4 +1,5 @@
 # ExpenGui
+<img id='right' src='expen.gif' alt='Gif do Projeto' width='70%'>
 
 <div id='dados'>
   <div id="left">
@@ -29,8 +30,6 @@
   - [Download NetBeans Project (.zip)](project/project.zip)
 
   </div>
-
-  <img id='right' src='res/project.gif' alt='Gif do Projeto'>
 
 </div>
 
