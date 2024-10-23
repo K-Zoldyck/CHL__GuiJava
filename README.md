@@ -37,5 +37,6 @@ Este repositório contém uma coleção de projetos acadêmicos desenvolvidos em
   - Marcar tarefas como concluídas.
   - Visualização de tarefas pendentes.
 - **Tecnologias:** Java + Swing.
+- [Ver Projeto](PRJ__TasksAdm/)
 
 
